@@ -1,11 +1,11 @@
 <h1 align="center">
-  <b> Gojo_Satoru </b>
+  <b>  </b>
 <!---</h1>
 <h1 align="center"><img src="https://media.giphy.com/media/GL42TduR8AkNq1xRog/giphy.gif" /></h1>
 
-<h1 align="center"><img src="https://te.legra.ph/file/4bf3b88115068d41efadd.jpg" /></h1> ----->
+<h1 align="center"><img src="https://te.legra.ph/file/72c5775633195eb71c56b.jpg" /></h1> ----->
   
-<h1 align="center"><img src="./extras/gojo_satoru__psd__by_at_yomiko_deyaec4-pre.jpg" /></h1>
+<h1 align="center"><img src=".https://te.legra.ph/file/72c5775633195eb71c56b.jpg" /></h1>
 
 
 
@@ -26,20 +26,14 @@
 
 
 
-**A python and [pyrogram](https://github.com/Gojo-Bots/pyrogram) based group management bot for telegram.
+**A python and pyrogram based group management bot for telegram.
 If you like the bot make sure to give a ⭐ __star__ ⭐ to this respository and feel free to updating and sending pull requests**
 
 
 
 ---------  
 
-## Inspiration ✨
-Not a particular inspiration, inspired by many bots
-
-Mainly:
-
-* [Alita_Robot](https://github.com/divideprojects/Alita_Robot)
-
+[TERE PAPA KI ID H YE BETA ](https://t.me/HereShiva)
 
 ---------
 
@@ -50,7 +44,7 @@ Mainly:
   
 The Gojo Satoru is a powerful Group Management bot with awesome plugins and features.
  
-  **If you counter any problem or face any bugs for help join 🌟 [ɢօʝօ ɮօȶֆ](https://telegram.dog/gojo_bots_network) 🌟 and then join the gc and ask your problem.**
+  **If you counter any problem or face any bugs for help join 🌟 [HELP GROUP ](https://t.me/mastiwithfriendsx) 🌟 and then join the gc and ask your problem.**
 
 ## Features
   
@@ -60,9 +54,9 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 * Fully open-source
 * Frequently updated
   
-***Can be found on Telegram as __[@GojoSuperbot](https://telegram.dog/GojoSuperbot)__***
+***Can be found on Telegram as __[STRANGER ROBOT](https://t.me/Kissebaatekru_bot)__***
   
-* Feel free to give ideas for next update. Drop your ideas [here](https://github.com/Gojo-Bots/Gojo_Satoru/discussions/new?category=ideas)
+* Feel free to give ideas for next update. Drop your ideas [here](https://t.me/mastiwithfriendsx)
 
 -------
 
