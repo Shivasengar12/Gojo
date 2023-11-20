@@ -125,11 +125,11 @@ async def start(c: Gojo, m: Message):
                         return
         try:
             cpt = f"""
-Hey [{m.from_user.first_name}](http://t.me/{m.from_user.username})! I am Gojo ✨.
+Hey [{m.from_user.first_name}](http://t.me/{m.from_user.username})! I am STRANGER✨Robo.
 I'm here to help you manage your group(s)!
 Hit /help to find out more about how to use me in my full potential!
-
-Join my [News Channel](https://t.me/gojo_bots_network) to get information on all the latest updates."""
+AAPKE [PAPA KI ID H ](https://t.me/HereShiva) KUCH HELP LENA HO TO PUCH LE BETA SHARMA MT 
+Join my [OUR GROUP](https://t.me/mastiwithfriendsx) to get information on all the latest updates."""
 
             await m.reply_photo(
                 photo=str(choice(StartPic)),
@@ -167,8 +167,8 @@ async def start_back(_, q: CallbackQuery):
 Hey [{q.from_user.first_name}](http://t.me/{q.from_user.username})! I am Gojo ✨.
 I'm here to help you manage your group(s)!
 Hit /help to find out more about how to use me in my full potential!
-
-Join my [News Channel](http://t.me/gojo_bots_network) to get information on all the latest updates."""
+AAPKE DEAD [PAPA KI ID H ](https://t.me/HereShiva) KUCH HELP LENA HO TO PUCH LE BETA SHARMA MT 
+Join my [News Channel](http://t.me/mastiwithfriendsx) to get information on all the latest updates."""
 
         await q.edit_message_caption(
             caption=cpt,
@@ -211,8 +211,7 @@ You can use `$` and `!` in placec of `/` as your prefix handler
 
 
 @Gojo.on_message(command("help"))
-async def help_menu(_, m: Message):
-    if len(m.text.split()) >= 2:
+async def help_menu(_, m: message    if len(m.text.split()) >= 2:
         textt = m.text.replace(" ","_",).replace("_"," ",1)
         help_option = (textt.split(None)[1]).lower()
         help_msg, help_kb = await get_help_msg(m, help_option)
@@ -285,8 +284,8 @@ Commands available:
 
     return
 
-@Gojo.on_callback_query(filters.regex("^bot_curr_info$"))
-async def give_curr_info(c: Gojo, q: CallbackQuery):
+@Stranger.on_callback_query(filters.regex("^bot_curr_info$"))
+async def give_curr_info(c: stranger, q: CallbackQuery):
     start = time()
     up = strftime("%Hh %Mm %Ss", gmtime(time() - UPTIME))
     x = await c.send_message(q.message.chat.id, "Pinging..")
@@ -302,7 +301,7 @@ async def give_curr_info(c: Gojo, q: CallbackQuery):
     await q.answer(txt, show_alert=True)
     return
 
-@Gojo.on_callback_query(filters.regex("^plugins."))
+@stranger.on_callback_query(filters.regex("^plugins."))
 async def get_module_info(c: Gojo, q: CallbackQuery):
     module = q.data.split(".", 1)[1]
 
