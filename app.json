@@ -10,7 +10,7 @@
       "Gojo",
       "Anime"
     ],
-    "repository": "https://github.com/Shivasengar12/Gojo/edit/beta/app.json",
+    "repository": "https://github.com/Shivasengar12/Gojo",
     "success_url": "https://t.me/mastiwithfriendsx",
     "env": {
       "BOT_TOKEN": {
